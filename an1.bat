@@ -1,0 +1,2 @@
+python access_point_node.py 50001 access_point_node_settings.json
+pause
